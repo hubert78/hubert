@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hubert Owusu</title>
+    <link>https://hubert78.github.io/hubert/post/</link>
+    <description>Recent content in Projects on Hubert Owusu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://hubert78.github.io/hubert/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Low Birth Weight: Analysis &amp; Prediction</title>
+      <link>https://hubert78.github.io/hubert/post/low-birth-weight/</link>
+      <pubDate>Sat, 20 Jul 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/low-birth-weight/</guid>
+      <description>Overview This is my exploration of a dataset on the risk factors associated with pregnant women delivering babies with low birth weight. Studies show that neonates born with low birth weight suffer from many health complications such as respiratory distress, and admission to the neonatal intensive care unit (NICU). These neonates also suffer a high chance of neonatal mortality than children born of normal weight. The goals of the project were to:</description>
+    </item>
+    
+    <item>
+      <title>Cat vs Dog Image Classifier</title>
+      <link>https://hubert78.github.io/hubert/post/cat-vs-dog/</link>
+      <pubDate>Thu, 11 Jul 2024 11:14:48 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/cat-vs-dog/</guid>
+      <description>Overview This is my journey through building different machine learning models to identify and determine if an image has a cat or dog in it. This project builds upon my traffic sign image classification algorithm. The dataset was taken from Kaggle.
+The Big Picture A larger classification of this, which entails many different animals could be helpful for children learning about animals. I imagine building a mobile application where people could upload an image and the classifier can tell them what animal it is and give them some fun facts about the animal.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Sign Image Classifier</title>
+      <link>https://hubert78.github.io/hubert/post/traffic/</link>
+      <pubDate>Thu, 20 Jun 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/traffic/</guid>
+      <description>Overview This is my first image classification algorithm to detect and classify traffic signs. This project is part of Harvard’s CS50 “Introduction to Artificial Intelligence with Python” course. There are 43 different traffic signs in the dataset. The challenge is to build an algorithm to accurately predict each class of image.
+The Big Picture In the grand scheme of things, this image classification algorithm can be used in automotive self-driving projects to identify and classify the different traffic signs on the road.</description>
+    </item>
+    
+    <item>
+      <title>Online User Purchase Prediction</title>
+      <link>https://hubert78.github.io/hubert/post/shopping/</link>
+      <pubDate>Tue, 11 Jun 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/shopping/</guid>
+      <description>Overview This is my exploration of a website’s online user dataset to predict which online users visiting the website are more likely to make a purchase. This project is part of Harvard’s CS50 “Introduction to Artificial Intelligence with Python” course. In the big scheme of things, determining the purchasing habits of a person visiting an online shopping website could inform what products to recommend to them. You can get the dataset here</description>
+    </item>
+    
+    <item>
+      <title>Laboratory Report Manager</title>
+      <link>https://hubert78.github.io/hubert/post/lab_report_manager/</link>
+      <pubDate>Wed, 14 Dec 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/lab_report_manager/</guid>
+      <description>Overview This is a project that sets the stage to build an integrated laboratory management system that laboratory scientists can rely on run their activities, and send results. You can find this project on Github. You can also find out more in this YouTube video.
+The inspiration As a molecular biologist working in the largest COVID-19 testing facility in Ghana, we were faced with a great challenge of dealing with large volumes of cases, sometimes over 2000 cases, each day without a proper laboratory management system.</description>
+    </item>
+    
+    <item>
+      <title>AI Player: Minesweeper Game</title>
+      <link>https://hubert78.github.io/hubert/post/minesweeper/</link>
+      <pubDate>Tue, 29 Nov 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/minesweeper/</guid>
+      <description>Overview This is my second attempt at developing an AI-enabled game application. It is the Minesweeper game, where I built an AI player to successfully navigate the mines without tripping on a bomb. The goal is to design a very intelligent AI agent that uses logical reasoning to deduce the locations of mines and safe cells.
+Solving the problem Far from a simple tic-tac-toe game, this project was a bit more challenging.</description>
+    </item>
+    
+    <item>
+      <title>AI Player: Tic-Tac-Toe</title>
+      <link>https://hubert78.github.io/hubert/post/tictactoe/</link>
+      <pubDate>Wed, 26 Oct 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/tictactoe/</guid>
+      <description>Overview This is the first AI-enabled game I ever built. This project is part of Harvard’s CS50 “Introduction to Artificial Intelligence with Python” course. It is a tic-tac-toe game in which a player can play against an AI-enabled computer opponent. The AI is built to be very competitive and not lose a game.
+Solving the problem I developed a minimax algorithm that recursively evaluates every possible move from a board-state, and then determines what the best action for the current player should be.</description>
+    </item>
+    
+    <item>
+      <title>Shortest Path Of Connection</title>
+      <link>https://hubert78.github.io/hubert/post/shortest-path/</link>
+      <pubDate>Wed, 26 Oct 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://hubert78.github.io/hubert/post/shortest-path/</guid>
+      <description>Overview This project is a search problem. It is part of Harvard’s CS50 “Introduction to Artificial Intelligence with Python” course. According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood film industry can be connected to Kevin Bacon within six steps, where each step consists of finding a film that two actors both starred in. The goal of this project was to find the shortest path of connections between two people in the movie industry using the degrees of separation concept.</description>
+    </item>
+    
+  </channel>
+</rss>
